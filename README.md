@@ -1,2 +1,2 @@
 # Lorenz-System-in-Unity
-I made the Lorenz system of equations in Unity
+I made a visualization of the Lorenz system of equations in Unity
